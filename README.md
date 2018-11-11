@@ -1,6 +1,4 @@
-# Introdução
-
-Projetos de Data Science
+# Projetos de Data Science
 
 ## projeto_emprestimo
     Project in which I classify loans as likely to be paid back and not likely to be paid back.
